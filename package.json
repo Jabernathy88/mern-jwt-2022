@@ -1,0 +1,29 @@
+{
+  "name": "mern-jwt-2022",
+  "version": "1.0.0",
+  "description": "Cloud hosted Mongo DB, React Application with JWT authentication. ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jabernathy88/mern-jwt-2022.git"
+  },
+  "author": "Jeremy E. Abernathy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jabernathy88/mern-jwt-2022/issues"
+  },
+  "homepage": "https://github.com/Jabernathy88/mern-jwt-2022#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
