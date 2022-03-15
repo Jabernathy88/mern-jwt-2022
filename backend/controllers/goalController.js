@@ -51,7 +51,7 @@ const updateGoal = asyncHandler(async (req, res) => {
 // route:   DELETE /api/goals
 // access   Private
 const deleteGoal = asyncHandler(async (req, res) => {
-  const goal = await Goal.findById(req.params.id) // still throws Mongo error if id format/length is invalid
+  const goal = await Goal.findById(req.params.id) // still throws MongDB error if id format/length is invalid
 
   if(!goal) {
     res.status(400)
