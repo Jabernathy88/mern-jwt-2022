@@ -33,7 +33,7 @@ const registerUser = asyncHandler(async (req, res) => {
     password: hashedPassword,
   })
 
-  if(user) {
+  if (user) {
     res.status(201).json({
       _id: user.id,
       name: user.name,
@@ -61,7 +61,8 @@ const loginUser = asyncHandler(async (req, res) => {
       email: user.email,
     })
   } else {
-    
+    res.status(400)
+    throw new Error('Invalid user credentials.')
   }
 
   res.json({ message: 'Login User' })
