@@ -1,3 +1,6 @@
+// error is being sent on duplicate login attempt, localhost, POST login route?
+// "Cannot set headers after they are sent to the client"
+
 const errorHandler = (err, req, res, next) => {
   const statusCode = res.statusCode ? res.statusCode : 500
 

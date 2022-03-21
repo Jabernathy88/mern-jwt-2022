@@ -34,6 +34,7 @@ const registerUser = asyncHandler(async (req, res) => {
   })
 
   if (user) {
+    console.log("Logged in!")
     res.status(201).json({
       _id: user.id,
       name: user.name,
@@ -56,6 +57,7 @@ const loginUser = asyncHandler(async (req, res) => {
   const user = await User.findOne({email})
   
   if (user && (await bcrypt.compare(password, user.password))) {
+    console.log("logged in!")
     res.json({
       _id: user.id,
       name: user.name,
@@ -72,7 +74,7 @@ const loginUser = asyncHandler(async (req, res) => {
 
 // Get current user info
 // route:   GET /api/users/me
-// access   Public
+// access   Private
 const getMe = asyncHandler(async (req, res) => {
   res.json({ message: 'User data display' })
 })
