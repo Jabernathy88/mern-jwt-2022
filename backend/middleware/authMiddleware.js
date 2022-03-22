@@ -22,9 +22,9 @@ const protect = asyncHandler(async (req, res, next) => {
       console.log(error)
       res.status(401)
       throw new Error('Not authorized')
-    }    
+    }
   }
 
-  // pause here 
+  // pause here 00:36:51 in video.
 
 })
