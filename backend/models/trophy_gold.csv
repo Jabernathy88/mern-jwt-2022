@@ -1,0 +1,58 @@
+"This is an overview of the available character creation options, and not an editable sheet. To add or change options, edit the hidden CUSTOMDATA sheet (changes will be reflected here).",,,,,,,,,,,,,,,,,,,,,,,,
+Character Names,Drives,Backgrounds,,Occupations,,,,Skills,Rituals,,,Backpack Equipment,,,,,,,,,,,,
+,,"Backgrounds with a superscript number (like this²) indicate that there's another background with the same name, but with a different skill.                        ",,"Occupations with a superscript number (like this²) indicate that there's another occupation with the same name, but with at least one different skill.",,,,,,,,,,,,,,,,,,,,
+Character Name,Drive,Background,Background Skill,Occupation,Occupation Skill 1,Occupation Skill 2,Occupation Skill 3,Skill,Ritual,Ritual Description,,Light Die,,Dark Die: 1 or 2,,,,,Dark Die: 3 or 4,,,,,Dark Die: 5 or 6
+Akaleh,Acquire the Gleaming Cache before it is too late,Abandoned Squire  ,aiding,Antiquarian  ,artifacts,myths,obfuscation,aiding,Army  ,create three illusory copies of yourself that mimic your actions exactly,,1,,"Fishing net, woven of silver",,,,,Cage of rats (3),,,,,Iron spikes (12)
+Alina,Arm the resistance against Lord Haffir’s tyranny,Cured Beastbitten  ,transformation,Bodyguard  ,protection,speed,vigilance,alchemy,Aura  ,creatures or objects under otherworldly influence glow faintly,,,,"Bottles, lead (6)",,,,,Flute,,,,,Mallet
+Aram,Attend Countess Shima’s Forbidden Festival,Defrocked Priest  ,omens,Hedge  ,curses,improvisation,spirits,appraisal,Beacon  ,nearby invisible beings or hidden objects shine with a fiery glow,,,,Magnet,,,,,Pot of honey (6 uses),,,,,"Tent, two-person"
+Baso,Become part of the Swirling Court,Disinherited Noble  ,appraisal,Leech  ,forensics,herbs,surgery,artifacts,Bewitch  ,"if given a gift, a person or animal will follow a simple command",,,,,,,,,,,,,,
+Benah,Become the only patron of Ansem the Wistful,Emboldened Ratcatcher  ,lairs,Lockpick  ,acrobatics,security,surprise,athletics,Bind  ,hold a person or animal in place,,2,,Bag of hard candies (12),,,,,Twine (300'),,,,,Bag of fool's gold (6 pieces)
+Daian,Break the geas placed by the Witch of Nevask,Errant Knight  ,dueling,Magician  ,performance,rituals,trickery,beasts,Bolt  ,throw a crackling arc of heat and energy,,,,Shining knife,,,,,Wind chimes,,,,,"Torches, 3 hrs (6)"
+Desarim,Break the siege on your sibling’s fortress,Escaped Cultist  ,deception,Oracle  ,gods,rituals,trances,craft,Bottle  ,force a spirit into an object,,,,Winterwolf Pelt,,,,,"Wooden mask, monstrous",,,,,Pickaxe
+Elisio,Bribe the justiciars so they will erase your crimes,Expelled Apprentice  ,lore,Ox  ,destruction,persistence,strength,curses,Burrow  ,move through the ground,,,,,,,,,,,,,,
+Esfahen,Bring freedom to Tirollis,Hapless Peddler  ,trading,Ranger  ,beasts,hunting,traps,deals,Channel  ,allow a spirit to act through you,,3,,"Chalk, 3 colors (12 uses)",,,,,Bottle of fine wine,,,,,Chain (24')
+Fion,Buy the orphanage where you were mistreated,Heretical Inquisitor  ,secrets,Sellsword  ,athletics,defence,weapons,deception,Circle  ,anyone within a small ring of salt is unable to inflict or suffer violence,,,,Crowbar,,,,,Signet ring & wax,,,,,Manacles
+Foret,Buy your brother’s freedom from Barsul Prison,Liberated Prisoner  ,deals,Smuggler  ,dexterity,spontaneity,stealth,defence,Darkness  ,a living shadow snuffs out all natural and magical light nearby,,,,Heirloom compass,,,,,Whistle,,,,,Wooden labyrinth game
+Ifori,Commission a glorious statue of your deity,Orphaned Manikin  ,mimicry,Sorcerer  ,alchemy,rituals,symbols,destruction,Drain  ,remove water from a person or animal,,,,,,,,,,,,,,
+Inda,Destroy the works of Ajino the Debauched Painter,Plagued Farmer  ,plants,,,,,dexterity,Enliven  ,give flesh and breath to a human effigy,,4,,Troll blood (heals 1 Ruin),,,,,Bear trap,,,,,"Candles, 2 hrs dim (12)"
+Kasien,Earn the respect of the Governor of Fort Duhrin,Reformed Thug  ,intimidation,,,,,dueling,Float  ,hold your breath to gently levitate,,,,Jar of glowworms (3),,,,,"Musk, bear & deer (6 uses)",,,,,"Mirror, small steel"
+Kel,Earn the right to your family’s name,Retired Soldier  ,tactics,,,,,forensics,Gale  ,conjure and guide a mighty wind,,,,Vermin repellent (3 uses),,,,,Soap (6 uses),,,,,Perfume (6 uses)
+Kiva,Establish an estate in the Levasti countryside,Runaway Kingsguard  ,tracking,,,,,gods,Germinate  ,compel plants to furious growth,,,,,,,,,,,,,,
+Lora,Finance an expedition into the Blossoming Sea,Uninspired Artisan  ,craft,,,,,herbs,Glamour  ,appear more charming and attractive,,5,,Glass marbles (30),,,,,Journal & black/invisible inks,,,,,Ashes of your grandmother
+Mahera,Find the artifact that proves the king’s true nature,Unmasked Faeborn  ,illusions,,,,,hunting,Gleam  ,a luminous spirit is bound to an object to project torch-like light,,,,Pot of tar (6 uses),,,,,Grease (6 uses),,,,,"Book, blasphemous"
+Masero,Find the resting ground of the Morning Knight,,,,,,,illusions,Guide  ,conjure a golden thread to follow,,,,Scroll tube (mystery scroll),,,,,"Dice (6 normal, 3 trick)",,,,,Shovel
+Moradi,Free the serfs of Bandung Prefecture,,,,,,,improvisation,Hasten  ,time in a small area moves at twice normal speed,,,,,,,,,,,,,,
+Neven,Give your betrothed the present they crave,,,,,,,intimidation,Hold  ,a warding sigil placed on a door prevents passage for a short time,,6,,Food for your pet goat,,,,,Grappling hook,,,,,"Hourglass, 10 min. markers"
+Nima,Humiliate the Chancellor of Yogyakarta Lyceaum,,,,,,,lairs,Hollow  ,push a spirit from its own body,,,,Skeleton key (1 use),,,,,Rope (120'),,,,,Numbing herbs (3 uses)
+Obeha,Locate the jewel that haunts Eriol’s dreams,,,,,,,lore,Hospitality  ,maintain peace while you share food & drink,,,,Wooden toy unicorn,,,,,Spyglass,,,,,Sewing kit
+Orlen,Pay the toll of the Emerald Bridge,,,,,,,mimicry,Inhabit  ,possess a person or animal,,"To copy and paste these into the keeper as a set of three, hold SHIFT while pressing CMD/CTRL + V. (Thanks, Arthur!)",,,,,,,,,,,,
+Osto,Pay your father’s debt to Bright-Teeth Assyrio,,,,,,,myths,Kindle  ,produce fire from oneself,,,,,,,,,,,,,,
+Parda,Publish your discoveries from ancient Kalduhr,,,,,,,obfuscation,Knock  ,open nearby normal and sorcerous locks,,Additional Backpack Equipment (in dropdowns on Character Keeper),,,,,,,,,,,,
+Pela,Rebuild Hisham’s Fountain,,,,,,,omens,Mask  ,cover your face and stay still to remove yourself from others’ senses,,Air bladder,,Cooking pot,,,,,Journal & black ink,,,,,Rope (60')
+Rasei,Repay your debt to the Chieftain of Ubud,,,,,,,performance,Medium  ,surface thoughts of nearby creatures enter and overwhelm a target,,Bear trap,,Crowbar,,,,,Lockpicks,,,,,"Scroll tube, empty"
+Revel,Restore the lost glory of the Caliginous Grove,,,,,,,persistence,Messenger  ,send a message via a woodlands creature,,"Bell, small",,Face paint,,,,,Mallet,,,,,Shovel
+Sareh,Restore the Temple of Tanahlot,,,,,,,plants,Mirage  ,create an illusion,,Block & tackle,,"Fishing net, standard",,,,,"Mirror, small glass",,,,,Sponge
+Sibil,Resurrect the Cult of Derawan,,,,,,,protection,Mirror  ,take on the form of a known person or animal,,"Bottles, lead (3)",,Fishing rod,,,,,"Musk, deer",,,,,"Stakes, wooden (6)"
+Talia,Retire in comfort in the Rose District of Ambaret,,,,,,,rituals,Numb  ,reduce sensation within a body,,Bucket,,Grappling hook,,,,,Padlock & key,,,,,"Tent, one-person"
+Teodan,Retrieve the lost banner of the Nameless Legion,,,,,,,secrets,Obscure  ,hide a person or object from spirits,,"Candles, 2 hrs dim (6)",,Grease,,,,,Pickaxe,,,,,"Torches, 3 hrs"
+Toram,Seize control of the Free Borough of Khamal,,,,,,,security,Parse  ,"divine the true meaning of any word, writing, sound, sign, or symbol",,Chain,,"Hourglass, 30 min. marker",,,,,Pole (10'),,,,,Twine (150')
+Valen,Take Cyrus’ place at the Earthen Council,,,,,,,speed,Project  ,observe a remote location in spirit form,,"Chalk, white",,Iron spikes,,,,,Pot of tar,,,,,Whistle
+Vero,Win the heart of the heir apparent of Naganeh,,,,,,,spirits,Repel  ,push away animals or people with spiritual force,,,,,,,,,,,,,,
+,,,,,,,,spontaneity,Rewind  ,slightly push a person or animal back in time,,,,,,,,,,,,,,
+,,,,,,,,stealth,Scent  ,use your olfactory sense to navigate in complete darkness,,,,,,,,,,,,,,
+,,,,,,,,strength,Silence  ,deafen all nearby for a few minutes,,,,,,,,,,,,,,
+,,,,,,,,surgery,Sleep  ,send a person or animal into a deep slumber,,,,,,,,,,,,,,
+,,,,,,,,surprise,Slow  ,time in a small area moves at half normal speed,,,,,,,,,,,,,,
+,,,,,,,,symbols,Smite  ,strike a being or object with a spiritual weapon,,,,,,,,,,,,,,
+,,,,,,,,tactics,Summon  ,draw a known spirit or person to you,,,,,,,,,,,,,,
+,,,,,,,,tracking,Swarm  ,trade favors with a colony of vermin,,,,,,,,,,,,,,
+,,,,,,,,trading,Switch  ,touch to swap bodies with another,,,,,,,,,,,,,,
+,,,,,,,,trances,Tadpole  ,"place a frog in a mouth to convert lungs to gills, or gills to lungs",,,,,,,,,,,,,,
+,,,,,,,,transformation,Unfall  ,temporarily reverse gravity in a small area,,,,,,,,,,,,,,
+,,,,,,,,traps,Unravel  ,"pull the threads of a ritual to uncast it, and recast it somewhere else",,,,,,,,,,,,,,
+,,,,,,,,trickery,Voice  ,alter your voice or make it appear to come from somewhere nearby,,,,,,,,,,,,,,
+,,,,,,,,vigilance,Wail  ,produce a disorientating sound,,,,,,,,,,,,,,
+,,,,,,,,weapons,Ward  ,stay concentrating to protect a small area,,,,,,,,,,,,,,
+,,,,,,,,,Web  ,produce enough webbing to cover a creature or reach something nearby,,,,,,,,,,,,,,
+,,,,,,,,,Wither  ,reduce flora to ash and rot,,,,,,,,,,,,,,
+,,,,,,,,,Yoke  ,"at your command, a spectral bull will drag something roughly your weight",,,,,,,,,,,,,,
