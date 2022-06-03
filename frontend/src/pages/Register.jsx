@@ -13,7 +13,7 @@ function Register() {
 
   const onChange = () => {}
 
-  return 
+  return (
     <>
       <section className="heading">
         <h1>
@@ -27,7 +27,7 @@ function Register() {
         <div className="form-group">
           <input 
             type="text" 
-            className="form-con" 
+            className="form-control" 
             id='name' 
             name='name'
             value={name} 
@@ -38,7 +38,7 @@ function Register() {
         <div className="form-group">
           <input 
             type="email"
-            className="form-con" 
+            className="form-control"
             id='email'
             name='email'
             value={email} 
@@ -50,16 +50,33 @@ function Register() {
           <input 
             type="password"
             className="form-control" 
-            id='email'
-            name='email'
-            value={email} 
-            placeholder='Enter your name' 
+            id='password'
+            name='password'
+            value={password} 
+            placeholder='Enter password' 
             onChange={{onChange}}
           />
+        </div>
+        <div className="form-group">
+          <input 
+            type="password"
+            className="form-control" 
+            id='password2'
+            name='password2'
+            value={password2} 
+            placeholder='Confirm password' 
+            onChange={{onChange}}
+          />
+        </div>
+        <div className="form-group">
+          <button type='submit' className="btn btn-block">
+            Submit
+          </button>
         </div>
 
       </section>
     </>
+  )
 }
 
 export default Register
