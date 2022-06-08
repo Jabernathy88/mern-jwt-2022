@@ -18,6 +18,16 @@ function Header() {
             <FaUser /> Register
           </Link>
         </li>
+        <li>
+          <Link to='/register'>
+            <FaUser /> Coordinators
+          </Link>
+        </li>
+        <li>
+          <Link to='/register'>
+            <FaUser /> Events Calendar
+          </Link>
+        </li>
       </ul>
     </div>
   )
